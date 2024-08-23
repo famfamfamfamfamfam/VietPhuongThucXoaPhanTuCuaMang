@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\bin\Debug\net8.0\XoaPhanTuKhoiMang.exe
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\bin\Debug\net8.0\XoaPhanTuKhoiMang.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\bin\Debug\net8.0\XoaPhanTuKhoiMang.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\bin\Debug\net8.0\XoaPhanTuKhoiMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\bin\Debug\net8.0\XoaPhanTuKhoiMang.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\refint\XoaPhanTuKhoiMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\XoaPhanTuKhoiMang.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\XoaPhanTuKhoiMang\obj\Debug\net8.0\ref\XoaPhanTuKhoiMang.dll
